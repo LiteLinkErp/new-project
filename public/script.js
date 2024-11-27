@@ -1,5 +1,5 @@
 async function fetchMessage() {
-    fetch('https://xtremepadelzambia-ln6wiorvw-litelinkerps-projects.vercel.app/api/apex', {
+    fetch('https://g0f64e949e59aa7-tbsdb20210810.adb.ap-mumbai-1.oraclecloudapps.com/ords/triopexb/xpbooking/xpbooking', {
     method: 'GET', // or 'POST', 'PUT', 'DELETE', etc.
     headers: {
         'Access-Control-Allow-Origin': '*', // Or a specific origin
